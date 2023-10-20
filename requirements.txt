@@ -1,0 +1,5 @@
+requests==2.31.0
+tkinter==8.6
+numpy==1.26.1
+matplotlib==3.8.0
+unittest=3.12.0

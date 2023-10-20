@@ -1,6 +1,8 @@
 # Лабораторная работа по дисциплине "Компьютерная графика" №2
 
 [![Version](https://img.shields.io/badge/Version-0.1.1-blue.svg)](https://github.com/YuliaFin/Lab2_CG.git)
+[![Build, Test](https://github.com/YuliaFin/Lab2_CG/actions/workflows/python-app.yml/badge.svg)](https://github.com/YuliaFin/Lab2_CG/actions/workflows/python-app.yml)
+[![License: MIT ](https://img.shields.io/badge/License-MIT-violet.svg)](https://opensource.org/licenses/MIT)
 
 Программа реализует отображение вертикальных колебаний шарика, подвешенного на упругой пружине.
 
